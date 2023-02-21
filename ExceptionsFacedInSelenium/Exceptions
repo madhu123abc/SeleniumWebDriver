@@ -1,0 +1,3 @@
+SessionNotCreatedException -When browser failed to start
+Invalid Argument Exception-when no http or no https provided
+IllegalArgumentException- keys send should be a not null CharSequence
